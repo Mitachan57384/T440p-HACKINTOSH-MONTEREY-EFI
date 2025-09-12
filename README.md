@@ -8,3 +8,4 @@ Instruction:
 -First download the efi from this repository,extract the folder and then rename the folder to "EFI"
 -Copy the efi folder to your flashdrive
 -Done!
+Please donate to me so i can buy lolita dress,thank you~
